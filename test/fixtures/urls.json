@@ -1,0 +1,10 @@
+{
+  "mainUrl": "https://www.saucedemo.com/",
+  "inventoryUrl": "https://www.saucedemo.com/inventory.html",
+  "checkoutFormUrl": "https://www.saucedemo.com/checkout-step-one.html",
+  "checkoutOwerview": "https://www.saucedemo.com/checkout-step-two.html",
+  "checkoutCompleteUrl": "https://www.saucedemo.com/checkout-complete.html",
+  "twitterUrl": "https://x.com/saucelabs",
+  "facebookUrl": "https://www.facebook.com/saucelabs",
+  "linkedinUrl": "https://www.linkedin.com/company/sauce-labs/"
+}

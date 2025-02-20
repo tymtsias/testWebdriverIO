@@ -1,0 +1,17 @@
+{
+  "name": "testWebdriverIO",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "@wdio/cli": "^9.9.1",
+    "@wdio/local-runner": "^9.9.1",
+    "@wdio/mocha-framework": "^9.9.0",
+    "@wdio/spec-reporter": "^9.9.0",
+    "eslint": "^9.20.1",
+    "eslint-plugin-wdio": "^9.9.1",
+    "globals": "^15.15.0"
+  },
+  "dependencies": {
+    "prettier": "^3.5.1"
+  }
+}
